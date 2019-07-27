@@ -1,6 +1,6 @@
 chaa,acho=map(str,input().split())
 ayas=0
-if len(cha)>len(cho):
+if len(chaa)>len(acho):
   chaa,acho=acho,chaa
 p=0
 while p<len(chaa):
